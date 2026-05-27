@@ -7,25 +7,6 @@ Ofrece guías de cuidado del medio acuático, protocolos de actuación ante emer
 
 El objetivo principal es aplicar las mejores prácticas de la industria en cuanto a documentación interna/externa, modelado de sistemas (UML) y metodologías ágiles (SCRUM) para asegurar un ciclo de vida de desarrollo de software (SDLC) robusto, escalable y de alta calidad.
 
-
-## 📂 Estructura del Repositorio
-SC-302-Documentacion-del-Software/
-│
-├── docs/
-│   ├── avance-1/        # Documento IEEE: introducción, justificación, objetivos
-│   ├── avance-2/        # Requerimientos funcionales y no funcionales
-│   ├── avance-3/        # Diagramas UML finalizados
-│   └── avance-4/        # Prototipo Figma + documento IEEE completo
-│
-├── diagramas/
-│   ├── casos-de-uso/    # Diagramas de casos de uso
-│   ├── clases/          # Diagrama de clases
-│   └── arquitectura/    # Arquitectura tecnológica
-│
-├── prototipo/           # Archivos exportados del prototipo en Figma
-│
-└── README.md
-
 ---
 
 ## 👥 Devs
